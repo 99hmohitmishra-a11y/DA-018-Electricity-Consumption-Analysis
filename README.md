@@ -26,7 +26,7 @@ Energy Analytics
 
 5. Team Members
 
-Total Team Members: 13
+Total Team Members: 12
 
 Team member names and responsibilities will be added here.
 
