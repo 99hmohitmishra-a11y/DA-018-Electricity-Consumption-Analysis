@@ -45,3 +45,10 @@ Currently in the initial development stage.
 Project ID
 
 DA-018
+Project Simulation (Wokwi)
+
+ESP32 Electricity Monitoring System
+
+"Click Here to View Live Simulation" (https://wokwi.com/projects/480671032475029505)
+
+This project uses ESP32 to monitor electricity consumption.
